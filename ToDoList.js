@@ -51,6 +51,7 @@ class Task{
         this.description=description;
         this.startTIme = startTIme;
         this.finishTime = finishTime;
+        console.log(this.name + "  "+ this.finishTime);
 
     }
 
